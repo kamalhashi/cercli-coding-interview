@@ -1,4 +1,4 @@
-package com.cercli.publichemployeeserviceolidayservice.controller
+package com.cercli.employeeservice.controller
 
 import com.cercli.employeeservice.TestUtils
 import com.cercli.employeeservice.exception.ResourceNotFoundException
