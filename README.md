@@ -3,7 +3,6 @@ The Employee Service is a Spring Boot application built with Kotlin that provide
 
 
 ### Features
-For further reference, please consider the following sections:
 
 * Create, Get, Update and Get All CRUD operations for  employees
 * Store employee, timeOffRequest in to  HQL memory DB
